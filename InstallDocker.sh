@@ -33,3 +33,5 @@ docker run -d \
   portainer/agent:2.19.4
 
 sudo apt install net-tools -y
+
+echo hostname -I
