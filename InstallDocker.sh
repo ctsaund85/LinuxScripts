@@ -34,4 +34,4 @@ docker run -d \
 
 sudo apt install net-tools -y
 
-echo hostname -I
+hostname -I
